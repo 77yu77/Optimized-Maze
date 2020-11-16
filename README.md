@@ -1,3 +1,3 @@
 # Add some functions
-## Add a parameter to customize size of maze
-## Optimize the interface
+## 1.Add a parameter to customize size of maze
+## 2.Optimize the interface
